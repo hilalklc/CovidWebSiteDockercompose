@@ -18,12 +18,12 @@ you must build and run this project with docker compose
 docker compose up 
 ```
 ! dont forget must be in the path of the file you cloned
-this project work with 5000 port so 
+this project work with 3000 port so 
 
 # testing
 
 You can test it by sending a request to this url, as a result, it will return you instant time.
-http://127.0.0.1:5000/api/get
+http://127.0.0.1:3000/api/get
 
 ## Contributing
 
